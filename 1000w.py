@@ -1,9 +1,9 @@
 # coding=utf-8
 import requests, json
 from os import system
-system("title 白金彩票-另类分析工具")
+system("title 白金之星-另类分析工具")
 
-# 白金彩票-双色球分析工具-v1.0
+# 白金之星-双色球分析工具-v1.0
 # author Hermit_xx
 # Email: medivh_yx@qq.com
 
