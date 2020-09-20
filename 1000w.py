@@ -3,6 +3,10 @@ import requests, json
 from os import system
 system("title 白金彩票-另类分析工具")
 
+# 白金彩票-双色球分析工具-v1.0
+# author Hermit_xx
+# Email: medivh_yx@qq.com
+
 # 此处输入聚合数据的app_key
 app_key = ''
 
